@@ -4,7 +4,7 @@ category: cfp
 layout: default
 ---
 
-We are accepting submissions for the following categories:
+We are accepting submissions for the following:
 
 * Long papers (6-12 pages)
 * Short papers (4-6 pages)
